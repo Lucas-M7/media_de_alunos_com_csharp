@@ -1,0 +1,14 @@
+C:\Users\Lucas\Downloads\projetos_back\nota_alunos\bin\Debug\net8.0\nota_alunos.exe
+C:\Users\Lucas\Downloads\projetos_back\nota_alunos\bin\Debug\net8.0\nota_alunos.deps.json
+C:\Users\Lucas\Downloads\projetos_back\nota_alunos\bin\Debug\net8.0\nota_alunos.runtimeconfig.json
+C:\Users\Lucas\Downloads\projetos_back\nota_alunos\bin\Debug\net8.0\nota_alunos.dll
+C:\Users\Lucas\Downloads\projetos_back\nota_alunos\bin\Debug\net8.0\nota_alunos.pdb
+C:\Users\Lucas\Downloads\projetos_back\nota_alunos\obj\Debug\net8.0\nota_alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\projetos_back\nota_alunos\obj\Debug\net8.0\nota_alunos.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\projetos_back\nota_alunos\obj\Debug\net8.0\nota_alunos.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\projetos_back\nota_alunos\obj\Debug\net8.0\nota_alunos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\projetos_back\nota_alunos\obj\Debug\net8.0\nota_alunos.dll
+C:\Users\Lucas\Downloads\projetos_back\nota_alunos\obj\Debug\net8.0\refint\nota_alunos.dll
+C:\Users\Lucas\Downloads\projetos_back\nota_alunos\obj\Debug\net8.0\nota_alunos.pdb
+C:\Users\Lucas\Downloads\projetos_back\nota_alunos\obj\Debug\net8.0\nota_alunos.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\projetos_back\nota_alunos\obj\Debug\net8.0\ref\nota_alunos.dll
